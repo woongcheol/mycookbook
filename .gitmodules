@@ -1,3 +1,3 @@
 [submodule "gitignore"]
-	path = gitignore/Python.gitignore
+	path = gitignore
 	url = git@github.com:github/gitignore.git
